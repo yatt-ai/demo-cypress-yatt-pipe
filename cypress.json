@@ -1,8 +1,0 @@
-{
-  "reporter": "junit",
-  "reporterOptions": {
-    "mochaFile": "results/cypress-results.xml",
-    "testCaseSwitchClassnameAndName": false
-  },
-  "video": false
-}

@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="3.505" tests="2" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-11-25T18:08:35" tests="0" file="cypress/integration/sample_spec.js" failures="0" time="0">
+<testsuites name="Mocha Tests" time="0.021" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-07-18T05:44:08" tests="0" file="cypress/e2e/sample_spec.js" time="0.000" failures="0">
   </testsuite>
-  <testsuite name="My First Test" timestamp="2022-11-25T18:08:35" tests="1" failures="0" time="0.073">
-    <testcase name="My First Test Does not do much!" time="0.073" classname="Does not do much!">
-    </testcase>
-  </testsuite>
-  <testsuite name="My second test" timestamp="2022-11-25T18:08:35" tests="1" failures="0" time="3.432">
-    <testcase name="My second test Gets, types and asserts" time="3.432" classname="Gets, types and asserts">
+  <testsuite name="My First Test" timestamp="2025-07-18T05:44:08" tests="1" time="0.019" failures="0">
+    <testcase name="My First Test Does not do much!" time="0.010" classname="Does not do much!">
     </testcase>
   </testsuite>
 </testsuites>
