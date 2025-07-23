@@ -2,7 +2,7 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
-    specPattern: "cypress/e2e/**/*.js",
+    specPattern: "test/**/*.js",
     reporter: "junit",
     reporterOptions: {
       mochaFile: "results/cypress-results.xml",
