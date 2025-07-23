@@ -8,7 +8,7 @@
     "node": ">=18.0.0"
   },
   "scripts": {
-    "test": "cypress run --spec cypress/e2e/sample_spec.js --reporter junit",
+    "test": "cypress run --spec test/sample_spec.js --reporter junit",
     "cypress:open": "cypress open"
   },
   "author": "",
